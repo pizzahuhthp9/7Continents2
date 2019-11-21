@@ -2,6 +2,7 @@ body{
 	font-family: 'Asap Condensed';
 	background-color: #a1d1e2;
 	/* background-color: #2a443f; */
+	background-image: url(../image/star.png);
 	width: 100%;
 	margin: 0px;
 }
@@ -117,6 +118,7 @@ body{
 	background-position: center;
 	margin-left: auto;
 	margin-right: auto;
+	background-color: #2a443f;
 }
 
 #seccond-content{

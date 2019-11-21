@@ -11,7 +11,10 @@ function hidebox(){
 	y.style.opacity = "1";
 	z.style.opacity = "1";
 	document.body.style.backgroundColor= "#a1d1e2";
-	welcomePageContainer.style.backgroundImage = "url(image/All-Recovered-No-Star.png)";
+	welcomePageContainer.style.backgroundImage = "url(image/All-Recovered-Day.png)";
+	welcomePageContainer.style.backgroundColor = "#a1d1e2";
+	document.body.style.backgroundImage= "url(image/cloud.png)";
+	
 }
 
 function showbox(){
@@ -23,4 +26,6 @@ function showbox(){
 	z.style.opacity = "0";
 	document.body.style.backgroundColor= "#2a443f";
 	welcomePageContainer.style.backgroundImage = "url(image/All-Recovered.png)";
+	welcomePageContainer.style.backgroundColor = "#2a443f";
+	document.body.style.backgroundImage= "url(image/star.png)";
 }
