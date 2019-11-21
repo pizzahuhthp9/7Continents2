@@ -1,0 +1,353 @@
+body{
+	font-family: 'Asap Condensed';
+	background-color: #a1d1e2;
+	/* background-color: #2a443f; */
+	width: 100%;
+	margin: 0px;
+}
+
+.wd-100{
+	width: 100%;
+}
+
+.wd-80{
+	width: 80%
+}
+
+.wd-70{
+	width: 70%;
+}
+
+.wd-60{
+	width: 60%;
+}
+
+.wd-50{
+	width: 50%;
+}
+
+.wd-40{
+	width: 40%;
+}
+
+.wd-30{
+	width: 30%;
+}
+
+.wd-20{
+	width: 20%;
+}
+
+.cursor-point{
+	cursor: pointer;
+}
+
+#welcome-page-inside-box{
+	background-color: rgba(255,255,255,0.2);
+	width: 30%;
+	height: 20vw;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	position: absolute;
+	border-radius: 10%;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	display: block;
+}
+
+#welcome-page-inside-box:hover{
+	background-color: rgba(255,255,255,0.25);
+}
+
+#welcome-page-inside-box:active{
+	background-color: rgba(255,255,255,0.3);
+}
+
+.text{
+	color: white; 
+	font-size: 2.5vw;
+	/*margin-top: 175px;*/
+}
+
+#welcome-page-btn{
+	background-color: #7d512b;
+	height: 4.5vw;
+	width: 40%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 10%;
+	position: relative;
+}
+
+#welcome-page-btn:hover{
+	background-color: #5d412b;
+}
+
+#welcome-page-btn:active{
+	background-color: #4d412b;
+}
+
+#welcome-page-btn .btn-text{
+	font-size: 1.25vw;
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+}
+
+#each-continental-main-page-head{
+	color: white; 
+	font-size: 60px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#welcome-page-container{
+	width: 75%;
+	height: 39vw;
+	margin-top: 50px;
+	position: relative;
+	background-image: url("../image/All-Recovered.png");
+	background-repeat: no-repeat;
+	background-size: 80vw,auto;
+	background-position: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#seccond-content{
+	display: none;
+}
+
+#back-btn{
+	width: 6%;
+	height: 6%;
+	background-color: #6d412b;
+	border-radius: 10%;
+	margin-top: 44%;
+	margin-left: 5.25%;
+	position: absolute;
+	opacity: 0;
+}
+
+#back-btn:hover{
+	background-color: #4d412b;
+}
+
+#back-btn:active{
+	background-color: #5d412b;
+}
+
+#back-btn .btn-text{
+	font-size: 1vw;
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+	text-align: center;
+}
+
+.btn-color{
+	background-color: #3e2525;
+	opacity: 0.5;
+}
+
+.btn-color:hover{
+	opacity: .8;
+}
+
+.btn-color:active{
+	opacity: 1;
+}
+
+#americaN-btn{
+	width: 8%;
+	height: 8%;
+	border-radius: 10%;
+	margin-top: 5%;
+	margin-left: 20%;
+	position: absolute;
+}
+
+#americaN-btn .btn-text{
+	font-size: 1vw;
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+	text-align: center;
+}
+
+#americaS-btn{
+	width: 8%;
+	height: 8%;
+	border-radius: 10%;
+	margin-top: 27%;
+	margin-left: 26%;
+	position: absolute;
+}
+
+#americaS-btn .btn-text{
+	font-size: 1vw;
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+	text-align: center;
+}
+
+#europe-btn{
+	width: 8%;
+	height: 8%;
+	border-radius: 10%;
+	margin-top: 6.5%;
+	margin-left: 51%;
+	position: absolute;
+}
+
+#europe-btn .btn-text{
+	font-size: 1vw;
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+	text-align: center;
+}
+
+#asia-btn{
+	width: 8%;
+	height: 8%;
+	border-radius: 10%;
+	margin-top: 9%;
+	margin-left: 67%;
+	position: absolute;
+}
+
+#asia-btn .btn-text{
+	font-size: 1vw;
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+	text-align: center;
+}
+
+#africa-btn{
+	width: 8%;
+	height: 8%;
+	border-radius: 10%;
+	margin-top: 19%;
+	margin-left: 47%;
+	position: absolute;
+}
+
+#africa-btn .btn-text{
+	font-size: 1vw;
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+	text-align: center;
+}
+
+#australia-btn{
+	width: 8%;
+	height: 8%;
+	border-radius: 10%;
+	margin-top: 31.5%;
+	margin-left: 83%;
+	position: absolute;
+}
+
+#australia-btn .btn-text{
+	font-size: 1vw;
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+	text-align: center;
+}
+
+#antarctica-btn{
+	width: 8%;
+	height: 5%;
+	border-radius: 10%;
+	margin-top: 49%;
+	margin-left: 50%;
+	position: absolute;
+}
+
+#antarctica-btn .btn-text{
+	font-size: 1vw;
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+	text-align: center;
+}
+
+/* Africa content */
+
+#africa-container{
+	width: 75%;
+	height: 60vw;
+	background-image: url(../image/Africa2.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Asia content */
+
+#asia-container{
+	width: 75%;
+	height: 60vw;
+	background-image: url(../image/asia.png);
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+#great-wall-of-china{
+	position: absolute;
+	background-image: url(../image/greatWallOfChina1.png);
+	background-size: 90%;
+	width: 10%;
+	height: 7vw;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-left: 55%;
+	margin-top: 13%;
+}
+
+#great-wall-of-china:hover{
+	background-image: url(../image/greatWallOfChina2.png);
+}
+
+#great-wall-of-china:active{
+	background-image: url(../image/greatWallOfChina3.png);
+}
