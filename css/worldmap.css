@@ -335,19 +335,19 @@ body{
 #great-wall-of-china{
 	position: absolute;
 	background-image: url(../image/greatWallOfChina1.png);
-	background-size: 90%;
+	background-size: 85%;
 	width: 10%;
 	height: 7vw;
 	background-repeat: no-repeat;
 	background-position: center;
 	margin-left: 55%;
-	margin-top: 13%;
+	margin-top: 14%;
 }
 
 #great-wall-of-china:hover{
-	background-image: url(../image/greatWallOfChina2.png);
+	background-size: 100%;
 }
 
 #great-wall-of-china:active{
-	background-image: url(../image/greatWallOfChina3.png);
+	background-size: 70%;
 }
