@@ -336,26 +336,6 @@ body{
 	position: relative;
 }
 
-#great-wall-of-china{
-	position: absolute;
-	background-image: url(../image/greatWallOfChina1.png);
-	background-size: 85%;
-	width: 10%;
-	height: 7vw;
-	background-repeat: no-repeat;
-	background-position: center;
-	margin-left: 55%;
-	margin-top: 15.5%;
-}
-
-#great-wall-of-china:hover{
-	background-image: url(../image/greatWallOfChina2.png);
-}
-
-#great-wall-of-china:active{
-	background-size: 70%;
-}
-
 /* north america content */
 #americaN-container{
 	width: 75%;
