@@ -2,7 +2,6 @@ body{
 	font-family: 'Asap Condensed';
 	background-color: #a1d1e2;
 	/* background-color: #2a443f; */
-	background-image: url(../image/star.png);
 	width: 100%;
 	margin: 0px;
 }
@@ -102,7 +101,7 @@ body{
 
 #each-continental-main-page-head{
 	color: white; 
-	font-size: 60px;
+	font-size: 5vw;
 	text-align: center;
 	margin-top: 50px;
 }
@@ -313,11 +312,14 @@ body{
 #africa-container{
 	width: 75%;
 	height: 60vw;
-	background-image: url(../image/Africa2.png);
+	background-image: url(../image/Africa.png);
+	background-size: 80%;
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: top;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 50px;
+	position: relative;
 }
 
 /* Asia content */
@@ -328,7 +330,7 @@ body{
 	background-image: url(../image/asia.png);
 	background-size: 80%;
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: top;
 	margin-left: auto;
 	margin-right: auto;
 	position: relative;
@@ -343,13 +345,26 @@ body{
 	background-repeat: no-repeat;
 	background-position: center;
 	margin-left: 55%;
-	margin-top: 14%;
+	margin-top: 15.5%;
 }
 
 #great-wall-of-china:hover{
-	background-size: 100%;
+	background-image: url(../image/greatWallOfChina2.png);
 }
 
 #great-wall-of-china:active{
 	background-size: 70%;
+}
+
+/* america content */
+#americaN-container{
+	width: 75%;
+	height: 60vw;
+	background-image: url(../image/americaN.png);
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: top;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
 }
