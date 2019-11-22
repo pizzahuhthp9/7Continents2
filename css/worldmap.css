@@ -356,7 +356,7 @@ body{
 	background-size: 70%;
 }
 
-/* america content */
+/* north america content */
 #americaN-container{
 	width: 75%;
 	height: 60vw;
@@ -368,3 +368,56 @@ body{
 	margin-right: auto;
 	position: relative;
 }
+
+/* south america content */
+#americaS-container{
+	width: 75%;
+	height: 60vw;
+	background-image: url(../image/americaS.png);
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: top;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+/* antarctica content */
+#antarctica-container{
+	width: 75%;
+	height: 60vw;
+	background-image: url(../image/Antarctica.png);
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: top;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+/* australia content */
+#australia-container{
+	width: 75%;
+	height: 60vw;
+	background-image: url(../image/Australia.png);
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: top;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+/* europe content */
+#europe-container{
+	width: 75%;
+	height: 60vw;
+	background-image: url(../image/Europe.png);
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: top;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
