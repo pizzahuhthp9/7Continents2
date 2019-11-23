@@ -1,6 +1,6 @@
 #antarctica-container{
 	width: 75%;
-	height: 60vw;
+	height: 35vw;
 	background-image: url(../image/Antarctica.png);
 	background-size: 80%;
 	background-repeat: no-repeat;
@@ -49,3 +49,25 @@
 #island:active{
 	background-size: 90%;
 }
+
+.pic img{
+	float: left;
+	opacity: 1;
+}
+
+
+.pic-1{
+	background-color:rgba(255, 255, 255, 0.5);
+	display: grid;
+	grid-template-columns: auto auto ;
+	grid-gap: 50px;
+	padding: 15px;
+	/* margin-left: 20%;
+	position: relative; */
+}
+
+.pic p{
+	position: relative;
+	margin-left: 10%;
+}
+
