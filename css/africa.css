@@ -73,3 +73,60 @@
 #ramesseum:active{
 	background-size: 90%;
 }
+/* content */
+
+.pic img{
+	float: left;
+	opacity: 1;
+}
+
+
+.pic-1{
+	background-color:rgba(255, 255, 255, 0.5);
+	display: grid;
+	grid-template-columns: auto auto ;
+	grid-gap: 10px;
+	padding: 15px;
+	
+}
+
+.pic p{
+	position: relative;
+	margin-left: 10%;
+}
+
+P{
+	line-height: 60em;
+}
+
+
+.font{
+	font-weight: bold;
+	font-size: x-large;
+}
+
+
+blockquote{
+	padding-top: 1em;
+	padding-right: 5em;
+	padding-bottom: 1em;
+	line-height: 2em;
+	}
+
+table, th, td, tr{
+		padding: 10px;
+		text-align: left;
+	}
+
+th{
+		font-size: 25px;
+	}
+
+td{
+		font-size: 20px;
+	}
+
+span.color{
+	color: #ffffff;
+	opacity: 0;
+}
