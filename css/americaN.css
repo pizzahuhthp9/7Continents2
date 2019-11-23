@@ -1,0 +1,71 @@
+#americaN-container{
+	width: 75%;
+	height: 60vw;
+	background-image: url(../image/americaN.png);
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: top;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+#grandcanyon{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/grand-canyon.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:23%;
+	margin-top: 20%;
+}
+
+#grandcanyon:hover{
+	background-image: url(../image/grand-canyon2.png);
+}
+
+#grandcanyon:active{
+	background-size: 90%;
+}
+
+#olympic{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/stadium.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:50%;
+	margin-top: 15%;
+}
+
+#olympic:hover{
+	background-image: url(../image/stadium2.png);
+}
+
+#olympic:active{
+	background-size: 90%;
+}
+
+#teotihuacan{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/teotihuacan.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:25%;
+	margin-top: 35%;
+}
+
+#teotihuacan:hover{
+	background-image: url(../image//teotihuacan2.png);
+}
+
+#teotihuacan:active{
+	background-size: 90%;
+}

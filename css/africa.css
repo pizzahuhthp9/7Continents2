@@ -1,0 +1,72 @@
+#africa-container{
+	width: 75%;
+	height: 60vw;
+	background-image: url(../image/Africa.png);
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: top;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	position: relative;
+}
+
+#kigali{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/memorial.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:55%;
+	margin-top: 25%;
+}
+
+#kigali:hover{
+	background-image: url(../image/memorial2.png);
+}
+
+#kigali:active{
+	background-size: 90%;
+}
+
+#victoria{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/waterfall.png);
+	background-size: 90%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:47%;
+	margin-top: 37%;
+}
+
+#victoria:hover{
+	background-image: url(../image/waterfall2.png);
+}
+
+#victoria:active{
+	background-size: 80%;
+}
+
+#ramesseum{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/temple.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:51.5%;
+	margin-top: 7.5%;
+}
+
+#ramesseum:hover{
+	background-image: url(../image/temple2.png);
+}
+
+#ramesseum:active{
+	background-size: 90%;
+}

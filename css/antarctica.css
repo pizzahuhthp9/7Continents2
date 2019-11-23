@@ -1,0 +1,51 @@
+#antarctica-container{
+	width: 75%;
+	height: 60vw;
+	background-image: url(../image/Antarctica.png);
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: top;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+#ice {
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/iceberg.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 30%;
+	margin-top: 18%;
+}
+
+#ice:hover{
+	background-image: url(../image/iceberg2.png);
+}
+
+#ice:active{
+	background-size: 90%;
+}
+
+#island{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/fishing.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 48%;
+	margin-top: 11%;
+}
+
+#island:hover{
+	background-image: url(../image/fishing2.png);
+}
+
+#island:active{
+	background-size: 90%;
+}

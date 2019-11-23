@@ -1,0 +1,52 @@
+
+#asia-container{
+	width: 75%;
+	height: 60vw;
+	background-image: url(../image/asia.png);
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: top;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+#fuji{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/fuji-mountain.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:70%;
+	margin-top: 18%;
+}
+
+#fuji:hover{
+	background-image: url(../image/fuji-mountain2.png);
+}
+
+#fuji:active{
+	background-size: 90%;
+}
+
+#terracotta{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/warrior.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:55%;
+	margin-top: 14%;
+}
+
+#terracotta:hover{
+	background-image: url(../image/warrior2.png);
+}
+
+#terracotta:active{
+	background-size: 90%;
+}

@@ -1,0 +1,71 @@
+#australia-container{
+	width: 75%;
+	height: 60vw;
+	background-image: url(../image/Australia.png);
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: top;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+#opera{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/sydney.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 62%;
+	margin-top: 30%;
+}
+
+#opera:hover{
+	background-image: url(../image/sydney2.png);
+}
+
+#opera:active{
+	background-size: 90%;
+}
+
+#reef{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/coral.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 71%;
+	margin-top: 15%;
+}
+
+#reef:hover{
+	background-image: url(../image/coral2.png);
+}
+
+#reef:active{
+	background-size: 90%;
+}
+
+#falls{
+	width: 8%;
+	height: 8vw;
+	background-image: url(../image/fall.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 30%;
+	margin-top: 25%;
+}
+
+#falls:hover{
+	background-image: url(../image/fall2.png);
+}
+
+#falls:active{
+	background-size: 90%;
+}
