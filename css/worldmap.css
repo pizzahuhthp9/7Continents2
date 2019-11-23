@@ -322,6 +322,66 @@ body{
 	position: relative;
 }
 
+#kigali{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/memorial.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:55%;
+	margin-top: 25%;
+}
+
+#kigali:hover{
+	background-image: url(../image/memorial2.png);
+}
+
+#kigali:active{
+	background-size: 90%;
+}
+
+#victoria{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/waterfall.png);
+	background-size: 90%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:47%;
+	margin-top: 37%;
+}
+
+#victoria:hover{
+	background-image: url(../image/waterfall2.png);
+}
+
+#victoria:active{
+	background-size: 80%;
+}
+
+#ramesseum{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/temple.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:51.5%;
+	margin-top: 7.5%;
+}
+
+#ramesseum:hover{
+	background-image: url(../image/temple2.png);
+}
+
+#ramesseum:active{
+	background-size: 90%;
+}
+
 /* Asia content */
 
 #asia-container{
@@ -334,6 +394,46 @@ body{
 	margin-left: auto;
 	margin-right: auto;
 	position: relative;
+}
+
+#fuji{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/fuji-mountain.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:70%;
+	margin-top: 18%;
+}
+
+#fuji:hover{
+	background-image: url(../image/fuji-mountain2.png);
+}
+
+#fuji:active{
+	background-size: 90%;
+}
+
+#terracotta{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/warrior.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:55%;
+	margin-top: 14%;
+}
+
+#terracotta:hover{
+	background-image: url(../image/warrior2.png);
+}
+
+#terracotta:active{
+	background-size: 90%;
 }
 
 /* north america content */
@@ -349,6 +449,66 @@ body{
 	position: relative;
 }
 
+#grandcanyon{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/grand-canyon.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:23%;
+	margin-top: 20%;
+}
+
+#grandcanyon:hover{
+	background-image: url(../image/grand-canyon2.png);
+}
+
+#grandcanyon:active{
+	background-size: 90%;
+}
+
+#olympic{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/stadium.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:50%;
+	margin-top: 15%;
+}
+
+#olympic:hover{
+	background-image: url(../image/stadium2.png);
+}
+
+#olympic:active{
+	background-size: 90%;
+}
+
+#teotihuacan{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/teotihuacan.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left:25%;
+	margin-top: 35%;
+}
+
+#teotihuacan:hover{
+	background-image: url(../image//teotihuacan2.png);
+}
+
+#teotihuacan:active{
+	background-size: 90%;
+}
+
 /* south america content */
 #americaS-container{
 	width: 75%;
@@ -360,66 +520,6 @@ body{
 	margin-left: auto;
 	margin-right: auto;
 	position: relative;
-}
-
-#easter-island{
-	width: 12%;
-	height: 8vw;
-	background-image: url(../image/easter-island.png);
-	background-size: 100%;
-	background-repeat: no-repeat;
-	background-position: center;
-	position: absolute;
-	margin-left: 40%;
-	margin-top: 32%;
-}
-
-#easter-island:hover{
-	background-image: url(../image/easter-island2.png);
-}
-
-#easter-island:active{
-	background-size: 90%;
-}
-
-#igu-fall{
-	width: 8%;
-	height: 8vw;
-	background-image: url(../image/fall.png);
-	background-size: 100%;
-	background-repeat: no-repeat;
-	background-position: center;
-	position: absolute;
-	margin-left: 38%;
-	margin-top: 6%;
-}
-
-#igu-fall:hover{
-	background-image: url(../image/fall2.png);
-}
-
-#igu-fall:active{
-	background-size: 90%;
-}
-
-#fortress{
-	width: 10%;
-	height: 8vw;
-	background-image: url(../image/memorial.png);
-	background-size: 100%;
-	background-repeat: no-repeat;
-	background-position: center;
-	position: absolute;
-	margin-left: 58%;
-	margin-top: 15%;
-}
-
-#fortress:hover{
-	background-image: url(../image/memorial2.png);
-}
-
-#fortress:active{
-	background-size: 90%;
 }
 
 /* antarctica content */
