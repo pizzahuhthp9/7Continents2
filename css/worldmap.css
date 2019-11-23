@@ -363,15 +363,15 @@ body{
 }
 
 #easter-island{
-	width: 15%;
-	height: 12vw;
+	width: 12%;
+	height: 8vw;
 	background-image: url(../image/easter-island.png);
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: center;
 	position: absolute;
-	margin-left: 36%;
-	margin-top: 25%;
+	margin-left: 40%;
+	margin-top: 32%;
 }
 
 #easter-island:hover{
@@ -383,7 +383,7 @@ body{
 }
 
 #igu-fall{
-	width: 10%;
+	width: 8%;
 	height: 8vw;
 	background-image: url(../image/fall.png);
 	background-size: 100%;
@@ -391,7 +391,7 @@ body{
 	background-position: center;
 	position: absolute;
 	margin-left: 38%;
-	margin-top: 40%;
+	margin-top: 6%;
 }
 
 #igu-fall:hover{
@@ -410,8 +410,8 @@ body{
 	background-repeat: no-repeat;
 	background-position: center;
 	position: absolute;
-	margin-left: 53%;
-	margin-top: 22%;
+	margin-left: 58%;
+	margin-top: 15%;
 }
 
 #fortress:hover{
