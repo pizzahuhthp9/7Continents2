@@ -354,8 +354,13 @@ body{
 
 .header-text{
 	font-size: 4vw;
-	color: white;
+	color: black;
 	text-align: center;
+}
+
+.diduknow-content p{
+	text-align:left !important;
+	text-indent:2em;
 }
 
 .text-diduknow{
