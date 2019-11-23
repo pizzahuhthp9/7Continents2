@@ -92,17 +92,22 @@ blockquote{
 	line-height: 2em;
 	}
 
-	table, th, td{
+table, th, td{
 		padding: 10px;
 	}
 
-	th{
+th{
 		font-size: 25px;
 	}
 
-	td{
+td{
 		font-size: 20px;
 	}
+
+span.color{
+	color: #ffffff;
+	opacity: 0;
+}
 	
 /* DidYouKnow */
 
