@@ -52,6 +52,8 @@
 	background-size: 90%;
 }
 
+/* content */
+
 .pic img{
 	float: left;
 	opacity: 1;
@@ -62,7 +64,7 @@
 	background-color:rgba(255, 255, 255, 0.5);
 	display: grid;
 	grid-template-columns: auto auto ;
-	grid-gap: 50px;
+	grid-gap: 10px;
 	padding: 15px;
 	
 }
@@ -72,15 +74,53 @@
 	margin-left: 10%;
 }
 
+P{
+	line-height: 60em;
+}
+
+
+.font{
+	font-weight: bold;
+	font-size: x-large;
+}
+
+
+blockquote{
+	padding-top: 1em;
+	padding-right: 5em;
+	padding-bottom: 1em;
+	line-height: 2em;
+	}
+
+table, th, td, tr{
+		padding: 10px;
+		text-align: left;
+	}
+
+th{
+		font-size: 25px;
+	}
+
+td{
+		font-size: 20px;
+	}
+
+span.color{
+	color: #ffffff;
+	opacity: 0;
+}
+	
+/* DidYouKnow */
+
 #diduknow{
 	margin-top: 35%;
 	margin-left: 80%;
 	width: 20%;
 	height: 15% !important;
 }
-.font{
-	font-weight: bold;
-	font-size: x-large;
+
+#diduknow:active{
+	margin-top: 36%;
 }
 
 #diduknow-bg{
@@ -88,14 +128,4 @@
 	margin-left: 80%;
 	height: 15% !important;
 }
-
-#diduknow:active{
-	margin-top: 36%;
-}
-blockquote {
-	padding-top: 1em;
-	padding-right: 5em;
-	padding-bottom: 1em;
-	}
-	padding-left: 5em;
 
