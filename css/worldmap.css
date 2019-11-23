@@ -435,6 +435,46 @@ body{
 	position: relative;
 }
 
+#ice {
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/iceberg.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 30%;
+	margin-top: 18%;
+}
+
+#ice:hover{
+	background-image: url(../image/iceberg2.png);
+}
+
+#ice:active{
+	background-size: 90%;
+}
+
+#island{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/fishing.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 48%;
+	margin-top: 11%;
+}
+
+#island:hover{
+	background-image: url(../image/fishing2.png);
+}
+
+#island:active{
+	background-size: 90%;
+}
+
 /* australia content */
 #australia-container{
 	width: 75%;
@@ -448,6 +488,65 @@ body{
 	position: relative;
 }
 
+#opera{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/sydney.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 62%;
+	margin-top: 30%;
+}
+
+#opera:hover{
+	background-image: url(../image/sydney2.png);
+}
+
+#opera:active{
+	background-size: 90%;
+}
+
+#reef{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/coral.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 71%;
+	margin-top: 15%;
+}
+
+#reef:hover{
+	background-image: url(../image/coral2.png);
+}
+
+#reef:active{
+	background-size: 90%;
+}
+
+#falls{
+	width: 8%;
+	height: 8vw;
+	background-image: url(../image/fall.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 30%;
+	margin-top: 25%;
+}
+
+#falls:hover{
+	background-image: url(../image/fall2.png);
+}
+
+#falls:active{
+	background-size: 90%;
+}
 /* europe content */
 #europe-container{
 	width: 75%;
