@@ -69,10 +69,25 @@
       }
 
 /* reference */
+
+    .bottom_bg{
+      padding-top: 90px;
+      padding-bottom: 400px;
+      background-image:url(../image/mountain_bg.png);
+      background-position: bottom;
+      background-repeat: no-repeat;
+      background-size: 100%;
+    }
+    
+    .header{
+      border-radius: 20%;
+      background-color: rgba(255, 255, 255, 0.2);
+      padding:5px;
+    }
+
     .button {
-      background-color: gray; 
-      border: none;
-      color: white;
+      background-color:#fcd493; 
+      color: black;
       padding: 15px 32px;
       text-align: center;
       text-decoration: none;
@@ -82,16 +97,17 @@
       cursor: pointer;
       width: 50%;
       border-radius: 20px;
-      opacity:0.8;
     }
 
-    .button1, .button2,.button3,.button4{
-      width: 50%;
-      border-radius: 20px;
+    #head-ref{
+      margin-left: auto;
+      margin-right: auto;
     }
-      
-     
-    .head-ref img {
-        opacity: 0.7;
-        
+    
+    .head-ref .button:hover {
+      background-color:gray;
+    }
+
+    .center{
+      text-align: center;
     }
