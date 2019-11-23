@@ -522,6 +522,66 @@ body{
 	position: relative;
 }
 
+#easter-island{
+	width: 12%;
+	height: 8vw;
+	background-image: url(../image/easter-island.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 40%;
+	margin-top: 32%;
+}
+
+#easter-island:hover{
+	background-image: url(../image/easter-island2.png);
+}
+
+#easter-island:active{
+	background-size: 90%;
+}
+
+#igu-fall{
+	width: 8%;
+	height: 8vw;
+	background-image: url(../image/fall.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 38%;
+	margin-top: 6%;
+}
+
+#igu-fall:hover{
+	background-image: url(../image/fall2.png);
+}
+
+#igu-fall:active{
+	background-size: 90%;
+}
+
+#fortress{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/memorial.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 58%;
+	margin-top: 15%;
+}
+
+#fortress:hover{
+	background-image: url(../image/memorial2.png);
+}
+
+#fortress:active{
+	background-size: 90%;
+}
+
 /* antarctica content */
 #antarctica-container{
 	width: 75%;
