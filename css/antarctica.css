@@ -73,3 +73,20 @@
 	margin-left: 10%;
 }
 
+#diduknow{
+	margin-top: 35%;
+	margin-left: 80%;
+	width: 20%;
+	height: 15% !important;
+}
+
+#diduknow-bg{
+	margin-top: 36%;
+	margin-left: 80%;
+	height: 15% !important;
+}
+
+#diduknow:active{
+	margin-top: 36%;
+}
+
