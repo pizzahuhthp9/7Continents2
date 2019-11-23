@@ -352,10 +352,148 @@ body{
 	color: white;
 }
 
+.header-text{
+	font-size: 4vw;
+	color: white;
+	text-align: center;
+}
+
 .text-diduknow{
 	top: 50%;
 	left: 50%;
 	margin-right: -50%;
 	transform: translate(-50% , -50%);
 	position: absolute;
+}
+
+.line{
+	background-color: white;
+	height: 1.5vw;
+	width: 407.7%;
+	margin-right: 100%;
+	top: 50%;
+	transform: translate(-50% , -50%);
+	position: absolute;
+}
+
+#greatwallofchina-img{
+	width: 95%;
+	height: 31vw;
+	background-image: url(../image/7wonder/greatwallof_china.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 153%;
+	border-radius: 50%;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+}
+
+#tajmahal-img{
+	width: 95%;
+	height: 31vw;
+	background-image: url(../image/7wonder/tajmahal_india.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 153%;
+	border-radius: 50%;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+}
+
+#colosseum-img{
+	width: 95%;
+	height: 31vw;
+	background-image: url(../image/7wonder/colosseum_rome.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 153%;
+	border-radius: 50%;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+}
+
+#chichen-img{
+	width: 95%;
+	height: 31vw;
+	background-image: url(../image/7wonder/chichenitza_maxico.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 153%;
+	border-radius: 50%;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+}
+
+#christ-img{
+	width: 95%;
+	height: 31vw;
+	background-image: url(../image/7wonder/christredeemer_blazil.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 153%;
+	border-radius: 50%;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+}
+
+#machu-diduknow-bg{
+	width: 95%;
+	height: 31vw;
+	background-image: url(../image/7wonder/machupicchu_pero.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 153%;
+	border-radius: 50%;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+}
+
+.image-diduknow-bg{
+	width: 32.5%;
+	height: 32.5vw;
+	background-color: white;
+	border-radius: 50%;
+	position: relative;
+	margin-top: 10%;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+}
+
+.diduknow-content{
+	width: 70%;
+	height: auto;
+	background-color: rgba(255,255,255,0.5);
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+	position: relative;
+	display: block;
+	padding: 1em;
+}
+
+.diduknow-content > p{
+	font-size: 2vw;
+	text-align: center;
+	color: black;
 }
