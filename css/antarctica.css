@@ -92,7 +92,7 @@ blockquote{
 	line-height: 2em;
 	}
 
-table, th, td{
+table, th, td, tr{
 		padding: 10px;
 		text-align: left;
 	}
