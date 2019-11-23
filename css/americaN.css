@@ -20,6 +20,7 @@
 	position: absolute;
 	margin-left:23%;
 	margin-top: 20%;
+	cursor: pointer;
 }
 
 #grandcanyon:hover{
@@ -40,6 +41,7 @@
 	position: absolute;
 	margin-left:50%;
 	margin-top: 15%;
+	cursor: pointer;
 }
 
 #olympic:hover{
@@ -60,6 +62,7 @@
 	position: absolute;
 	margin-left:25%;
 	margin-top: 35%;
+	cursor: pointer;
 }
 
 #teotihuacan:hover{
@@ -68,4 +71,18 @@
 
 #teotihuacan:active{
 	background-size: 90%;
+}
+
+#diduknow{
+	margin-top: 60%;
+	margin-left: 80%;
+}
+
+#diduknow-bg{
+	margin-top: 61%;
+	margin-left: 80%;
+}
+
+#diduknow:active{
+	margin-top: 61%;
 }

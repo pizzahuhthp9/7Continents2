@@ -20,6 +20,7 @@
 	position: absolute;
 	margin-left: 30%;
 	margin-top: 18%;
+	cursor: pointer;
 }
 
 #ice:hover{
@@ -40,6 +41,7 @@
 	position: absolute;
 	margin-left: 48%;
 	margin-top: 11%;
+	cursor: pointer;
 }
 
 #island:hover{
@@ -70,15 +72,30 @@
 	margin-left: 10%;
 }
 
+#diduknow{
+	margin-top: 35%;
+	margin-left: 80%;
+	width: 20%;
+	height: 15% !important;
+}
 .font{
 	font-weight: bold;
 	font-size: x-large;
 }
 
+#diduknow-bg{
+	margin-top: 36%;
+	margin-left: 80%;
+	height: 15% !important;
+}
+
+#diduknow:active{
+	margin-top: 36%;
+}
 blockquote {
 	padding-top: 1em;
 	padding-right: 5em;
 	padding-bottom: 1em;
-	padding-left: 5em;
 	}
+	padding-left: 5em;
 

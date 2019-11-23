@@ -9,6 +9,7 @@
 	margin-left: auto;
 	margin-right: auto;
 	position: relative;
+	
 }
 
 #fuji{
@@ -21,6 +22,7 @@
 	position: absolute;
 	margin-left:70%;
 	margin-top: 18%;
+	cursor: pointer;
 }
 
 #fuji:hover{
@@ -41,6 +43,7 @@
 	position: absolute;
 	margin-left:55%;
 	margin-top: 14%;
+	cursor: pointer;
 }
 
 #terracotta:hover{
@@ -49,4 +52,18 @@
 
 #terracotta:active{
 	background-size: 90%;
+}
+
+#diduknow{
+	margin-top: 60%;
+	margin-left: 80%;
+}
+
+#diduknow-bg{
+	margin-top: 61%;
+	margin-left: 80%;
+}
+
+#diduknow:active{
+	margin-top: 61%;
 }
