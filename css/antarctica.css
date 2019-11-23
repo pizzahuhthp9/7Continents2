@@ -72,6 +72,10 @@
 	margin-left: 10%;
 }
 
+P{
+	line-height: 60em;
+}
+
 #diduknow{
 	margin-top: 35%;
 	margin-left: 80%;
@@ -92,10 +96,15 @@
 #diduknow:active{
 	margin-top: 36%;
 }
-blockquote {
+blockquote{
 	padding-top: 1em;
 	padding-right: 5em;
 	padding-bottom: 1em;
+	line-height: 2em;
 	}
-	padding-left: 5em;
+
+	table, td, th{
+		padding: 15px;
+	}
+	
 
