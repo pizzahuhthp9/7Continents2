@@ -502,3 +502,62 @@ body{
 	position: relative;
 }
 
+#paris{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/eiffel-tower.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 34%;
+	margin-top: 33%;
+}
+
+#paris:hover{
+	background-image: url(../image/eiffel-tower2.png);
+}
+
+#paris:active{
+	background-size: 90%;
+}
+
+#parthenon{
+	width: 8%;
+	height: 8vw;
+	background-image: url(../image/parthenon.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 48%;
+	margin-top: 42%;
+}
+
+#parthenon:hover{
+	background-image: url(../image/parthenon2.png);
+}
+
+#parthenon:active{
+	background-size: 90%;
+}
+
+#uk{
+	width: 10%;
+	height: 8vw;
+	background-image: url(../image/stonehenge.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	margin-left: 58%;
+	margin-top: 30%;
+}
+
+#uk:hover{
+	background-image: url(../image/stonehenge2.png);
+}
+
+#uk:active{
+	background-size: 90%;
+}
