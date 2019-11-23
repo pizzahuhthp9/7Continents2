@@ -18,8 +18,9 @@
 	background-repeat: no-repeat;
 	background-position: center;
 	position: absolute;
-	margin-left: 42%;
-	margin-top: 27%;
+	margin-left: 40%;
+	margin-top: 32%;
+	cursor: pointer;
 }
 
 #easter-island:hover{
@@ -40,6 +41,7 @@
 	position: absolute;
 	margin-left: 38%;
 	margin-top: 6%;
+	cursor: pointer;
 }
 
 #igu-fall:hover{
@@ -60,6 +62,7 @@
 	position: absolute;
 	margin-left: 58%;
 	margin-top: 15%;
+	cursor: pointer;
 }
 
 #fortress:hover{

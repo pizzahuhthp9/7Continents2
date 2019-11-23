@@ -20,6 +20,7 @@
 	position: absolute;
 	margin-left: 62%;
 	margin-top: 30%;
+	cursor: pointer;
 }
 
 #opera:hover{
@@ -40,6 +41,7 @@
 	position: absolute;
 	margin-left: 71%;
 	margin-top: 15%;
+	cursor: pointer;
 }
 
 #reef:hover{
@@ -60,6 +62,7 @@
 	position: absolute;
 	margin-left: 30%;
 	margin-top: 25%;
+	cursor: pointer;
 }
 
 #falls:hover{

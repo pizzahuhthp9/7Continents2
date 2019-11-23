@@ -20,6 +20,7 @@
 	position: absolute;
 	margin-left: 30%;
 	margin-top: 18%;
+	cursor: pointer;
 }
 
 #ice:hover{
@@ -40,6 +41,7 @@
 	position: absolute;
 	margin-left: 48%;
 	margin-top: 11%;
+	cursor: pointer;
 }
 
 #island:hover{
